@@ -2,7 +2,7 @@
 BARMM Data Challenge 2020
 
 
-Link to [Power BI] 
+Link to [Power BI].
 
 
 Link to YouTube Video: https://youtu.be/Dv5PgmqBJ_w
